@@ -1,5 +1,5 @@
 # 🚀 Projet DevOps - 4TWIN4
-![Logo de Locker Room](Port.png)
+![Logo Devops](Port.png)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-14.0.0-red.svg)](https://angular.io/)
